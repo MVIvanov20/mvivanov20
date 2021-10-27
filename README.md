@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MVIvanov20</h1>
 <h3 align="center">A kid who plays games</h3>
 
-<img align="right" height="498" width="498" alt="" src="https://c.tenor.com/0UPw9RZF_cAAAAAC/pop-cat.gif" />
+<img align="right" height="250" width="250" alt="" src="https://c.tenor.com/0UPw9RZF_cAAAAAC/pop-cat.gif" />
 
 - 🔭 I’m currently working on **My Github Profile**
 
